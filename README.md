@@ -5,4 +5,4 @@
 
 ## 欢迎大家去看我的教程
 - [简书传送门](https://www.jianshu.com/u/9d4fafee4faf)
-- [个人博客传送门](www.yznx.xyz)
+- [个人博客传送门](http://www.yznx.xyz)
