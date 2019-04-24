@@ -5,6 +5,7 @@
 
 **python web之flask学习** 
 - [学flask第四天](https://github.com/Yznx04/spider_learn/tree/master/flask4) 
+- [flask数据库简单操作](https://github.com/Yznx04/spider_learn/tree/master/flaskDatabase)
 ## 欢迎大家去看我的教程
 - [简书传送门](https://www.jianshu.com/u/9d4fafee4faf)
 - [个人博客传送门](http://www.yznx.xyz)
